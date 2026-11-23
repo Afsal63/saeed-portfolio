@@ -325,21 +325,7 @@ export const PORTFOLIO_DATA = {
       ],
       skills: ["Google Search Ads", "Google Display Ads", "Google Business Profile", "Canva", "Budget Allocation"],
     },
-    {
-      role: "Accounts Trainee",
-      company: "Moheet Al Hisab Accounting and Tax Consultancy",
-      location: "Dubai, UAE",
-      period: "10/2024 – 01/2025",
-      type: "Finance / Accounting",
-      description:
-        "Handled commercial bookkeeping, financial records, and reconciliations in Dubai's corporate tax and VAT environment.",
-      achievements: [
-        "Maintained financial journals, general ledgers, and reconciled bank accounts using Tally and Zoho Books.",
-        "Assisted in preparing financial statements and corporate tax documentation.",
-        "Built rigorous habits for financial precision, ledger reconciliation, and unit-economic reporting that now powers my ad budget discipline.",
-      ],
-      skills: ["Tally", "Zoho Books", "Bank Reconciliation", "Ledger Accounting", "Financial Reporting"],
-    },
+    
     {
       role: "Accountant",
       company: "Opera International India",

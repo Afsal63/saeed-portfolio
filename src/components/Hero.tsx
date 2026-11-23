@@ -228,7 +228,7 @@ export default function Hero() {
           <span className="text-neutral-300">•</span>
           <span className="hover:text-neutral-900 transition-colors">Adzpire</span>
           <span className="text-neutral-300">•</span>
-          <span className="hover:text-neutral-900 transition-colors">Moheet Al Hisab</span>
+         
         </div>
       </div>
 

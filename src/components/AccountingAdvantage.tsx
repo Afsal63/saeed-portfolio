@@ -152,7 +152,7 @@ export default function AccountingAdvantage() {
               </div>
               <div className="p-3 rounded-xl bg-slate-900/40 border border-white/5 text-center">
                 <div className="text-indigo-400 font-mono font-bold text-sm">Dubai &amp; GCC Tax Aware</div>
-                <div className="text-[11px] text-slate-400 mt-0.5">Moheet Al Hisab corporate training</div>
+               
               </div>
             </div>
 
